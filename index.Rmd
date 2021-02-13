@@ -1,0 +1,32 @@
+---
+title: "Counseling_Psychology"
+image: "곽재석사진.png"
+links:
+  - label: Tistory
+    url: "https://counseling-psychology.tistory.com/"
+  - label: NAVER_Blog
+    url: "https://blog.naver.com/jaeseok3979"
+  - label: GitHub
+    url: "https://github.com/counseling-psychology"
+  - label: Email
+    url: "mailto:jaeseok3979@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Intro
+
+안녕하세요. R을 이용해 상담 및 임상심리와 관련한 연구와 통계방법을 공부하고 공유할 계획입니다. 
+
+
+
+## Education
+
+**Korea Baptist Theological University/Seminary**  
+
+B.A. Counseling Psychology | March 2012 - February 2019
+
+M.A. Counseling and clinical psychology | March 2019 - February 2021
+
+Ph.D. Counseling and clinical psychology | March 2021 - 
+
