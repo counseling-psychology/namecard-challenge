@@ -1,5 +1,5 @@
 ---
-title: "Counseling_Psychology"
+title: "별을 보자"
 image: "곽재석사진.png"
 links:
   - label: Tistory
